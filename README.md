@@ -14,6 +14,8 @@ Barium: In form of "barium nitrate" is commonly used to make green fireworks. Su
 
 Lettuce is a [BDD](http://en.wikipedia.org/wiki/Behavior_Driven_Development) tool for python, 100% inspired on [cucumber](http://cukes.info/ "BDD with elegance and joy").
 
+Note, this fork works only for django versions 1.8+. For older django versions, please, use original lettuce.
+
 # Motivation
 
 1. [Cucumber](http://cukes.info/) makes [Ruby](http://www.ruby-lang.org/) even more sexy. Python needed something like it.
